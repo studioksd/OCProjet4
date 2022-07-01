@@ -677,7 +677,12 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
+}
+
+ul > li {
+    display: inline-block;
+    margin: 0 0 0 15px;
 }
 
 .tight-width-whitespace {
