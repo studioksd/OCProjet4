@@ -436,8 +436,7 @@ nav .caret {
 }
 
 .mg-md {
-    margin-top: 10px;
-    margin-bottom: 20px;
+    margin: 10px 10px 20px 10px;
 }
 
 .mg-lg {
@@ -748,6 +747,7 @@ h4 {
 }
 .portfolio-thumb {
     margin-bottom: 24px;
+    width: 100%;
 }
 
 .portfolio-row {
@@ -1018,7 +1018,7 @@ h4 {
         margin-top: 30px;
     }
     form {
-        padding: 5px;
+        padding: 11px;
     }
     .close-lightbox {
         display: inline-block;
